@@ -8,4 +8,4 @@ https://tinderclone-odfzozvfm-natashalazo.vercel.app/
 https://courflix-react-murex.vercel.app/
 
 
-MI PORTFOLIO ! https://natasha-lazo-portfolio.vercel.app/ 
+MI PORTFOLIO ! https://natasha-lazo-portfolio.vercel.app/  (REACT, SASS)
